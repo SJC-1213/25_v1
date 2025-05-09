@@ -1,0 +1,330 @@
+{"messages": [{"role": "user", "content": "반도체 분야로 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 분야에서 실력 있는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 연구하고 싶은데 멘토가 될 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 관련해서 학위 과정 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체기술 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체기술 연구하는 교수님 중에 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체기술 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체기술 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체기술 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 연구 분야로 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 연구 분야로 진학하려고 하는데 추천해주실 교수님 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 연구 관련해서 논문 쓰려고 하는데 도와주실 교수님 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 연구 연구하고 싶은데 멘토가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 연구 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "휴먼인터페이스 소자 및 센서 연구하시는 교수님 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "휴먼인터페이스 소자 및 센서 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "휴먼인터페이스 소자 및 센서 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "휴먼인터페이스 소자 및 센서 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "휴먼인터페이스 소자 및 센서 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노바이오 소재 및 소자 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노바이오 소재 및 소자 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노바이오 소재 및 소자 관련해서 석사/박사 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노바이오 소재 및 소자 연구하는 연구자 중에 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노바이오 소재 및 소자 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "바이오 전자소자 연구하고 싶은데 프로젝트 멤버가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "바이오 전자소자 연구하는 사람 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "바이오 전자소자 관련해서 조언을 받을 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "바이오 전자소자 관련해서 프로젝트를 진행하려고 하는데 도와주실 전문가 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "바이오 전자소자 분야에서 실력 있는 전문가 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트랜지스터 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트랜지스터 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트랜지스터 연구하는 전문가 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트랜지스터 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트랜지스터 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀메모리 연구하고 싶은데 멘토가 될 수 있는 연구자 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀메모리 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀메모리 관련 연구하는 교수님 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀메모리 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀메모리 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체소자 연구하시는 교수님 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체소자 관련해서 조언을 받을 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체소자 관련해서 도움을 받을 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체소자 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체소자 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 실리콘 태양전지 분야로 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 실리콘 태양전지 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 실리콘 태양전지 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 실리콘 태양전지 연구하고 싶은데 멘토가 될 수 있는 전문가 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 실리콘 태양전지 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "실리콘/유기 이종접합 전자소자 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "실리콘/유기 이종접합 전자소자 분야로 대학원 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "실리콘/유기 이종접합 전자소자 관련 연구하는 교수님 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "실리콘/유기 이종접합 전자소자 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "실리콘/유기 이종접합 전자소자 연구하고 싶은데 멘토가 될 수 있는 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 인공 시냅스 소자 분야 잘하는 연구자 누구야?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 인공 시냅스 소자 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 인공 시냅스 소자 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 인공 시냅스 소자 연구하고 싶은데 멘토가 될 수 있는 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 인공 시냅스 소자 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 개발 연구하는 사람 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 개발 관련해서 논문 쓰려고 하는데 도와주실 연구자 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 개발 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 개발 연구하는 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 개발 연구하고 싶은데 프로젝트 멤버가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 합성 연구하시는 분 중에 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 합성랑 관련된 연구자 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 합성 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 합성 관련해서 학위 과정 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신소재 합성 연구하시는 교수님 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신물성 연구 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신물성 연구 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신물성 연구 분야에서 유명한 전문가 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신물성 연구 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "반도체 신물성 연구 쪽으로 연구하시는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트로닉스 분야에서 실력 있는 교수님 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트로닉스 관련해서 프로젝트를 진행하려고 하는데 도와주실 전문가 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트로닉스 연구하고 싶은데 멘토가 될 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트로닉스 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀트로닉스 연구하는 사람 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "B-based Superhard Coating 분야로 진학하려고 하는데 추천해주실 연구자 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "B-based Superhard Coating 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "B-based Superhard Coating 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "B-based Superhard Coating 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "B-based Superhard Coating 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "C-based Superhard Coating 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "C-based Superhard Coating 연구하는 사람 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "C-based Superhard Coating 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "C-based Superhard Coating 관련해서 프로젝트를 진행하려고 하는데 도와주실 전문가 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "C-based Superhard Coating 연구하는 전문가 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "N-based Superhard Coating 관련해서 조언을 받을 수 있는 전문가 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "N-based Superhard Coating 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "N-based Superhard Coating 주제로 연구하는 사람 찾아줘"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "N-based Superhard Coating 연구하고 싶은데 멘토가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "N-based Superhard Coating 연구자 중에 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Thin Film Solar Cell 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Thin Film Solar Cell 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Thin Film Solar Cell 연구하는 교수님 중에 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Thin Film Solar Cell 분야에서 실력 있는 교수님 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Thin Film Solar Cell 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CIGS 연구하고 싶은데 프로젝트 멤버가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CIGS 연구 같이 하는 사람 있을까?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CIGS 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CIGS 관련해서 도움을 받을 수 있는 전문가 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CIGS 관련해서 프로젝트를 진행하려고 하는데 도와주실 전문가 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CZTS 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CZTS 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CZTS 관련해서 학위 과정 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CZTS 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "CZTS 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "인공지능 광-반도체 소자 연구하고 싶은데 멘토가 될 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "인공지능 광-반도체 소자 분야 전문가 찾고 있어요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "인공지능 광-반도체 소자 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "인공지능 광-반도체 소자 관련 연구자 찾고 있어요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "인공지능 광-반도체 소자 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 감각센서 관련해서 조언을 받을 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 감각센서 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 감각센서 연구하시는 교수님 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 감각센서 분야로 진학하려고 하는데 추천해주실 전문가 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 감각센서 연구하고 싶은데 멘토가 될 수 있는 연구자 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초분광이미지센서 관련 연구하는 교수님 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초분광이미지센서 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초분광이미지센서 분야 잘하는 연구자 누구야?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초분광이미지센서 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초분광이미지센서 연구하고 싶은데 프로젝트 멤버가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 소자 개발 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 소자 개발 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 소자 개발 분야로 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 소자 개발 분야 잘하는 연구자 누구야?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "신경모사 소자 개발 분야에서 실력 있는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소자 분야에서 유명한 연구자 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소자 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소자 관련해서 학위 과정 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소자 연구하고 싶은데 멘토가 될 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소자 주제로 연구하는 사람 찾아줘"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소재 연구 같이 하는 사람 있을까?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소재 관련해서 논문 쓰려고 하는데 도와주실 연구자 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소재 분야에서 실력 있는 전문가 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소재 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "차세대 컴퓨팅 소재 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Spin based electronic devices 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Spin based electronic devices 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Spin based electronic devices 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Spin based electronic devices 분야에서 실력 있는 교수님 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Spin based electronic devices 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "High frequency transport measurement 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "High frequency transport measurement 분야로 진학하려고 하는데 추천해주실 연구자 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "High frequency transport measurement 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "High frequency transport measurement 쪽으로 연구하시는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "High frequency transport measurement 쪽 전문가 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Quantum transport 분야에서 실력 있는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Quantum transport 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Quantum transport 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Quantum transport 연구하는 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Quantum transport 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 개발 관련해서 도움을 받을 수 있는 전문가 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 개발 관련 연구하는 교수님 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 개발 연구하시는 분 중에 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 개발 관련해서 석사/박사 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 개발 연구자 중에 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Neuromorphic engineering 연구하시는 교수님 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Neuromorphic engineering 분야에서 유명한 교수님 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Neuromorphic engineering 관련해서 조언을 받을 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Neuromorphic engineering 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Neuromorphic engineering 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Memristor 연구하고 싶은데 프로젝트 멤버가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Memristor 분야로 진학하려고 하는데 추천해주실 연구자 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Memristor 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Memristor 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "Memristor 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 자성 재료 관련해서 도움을 받을 수 있는 연구자 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 자성 재료 연구하고 싶은데 멘토가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 자성 재료 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 자성 재료 연구하고 싶은데 프로젝트 멤버가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 자성 재료 주제로 연구하는 사람 찾아줘"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "저차원 자성 현상 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "저차원 자성 현상 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "저차원 자성 현상 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "저차원 자성 현상 관련해서 조언을 받을 수 있는 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "저차원 자성 현상 분야에서 유명한 연구자 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 관련 연구하는 교수님 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 분야로 진학하려고 하는데 추천해주실 교수님 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 관련해서 학위 과정 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "초저전력 스핀소자 연구 같이 하는 사람 있을까?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노전자재료 연구하고 싶은데 프로젝트 멤버가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노전자재료 연구하는 분들 중에 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노전자재료 관련해서 조언을 받을 수 있는 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노전자재료 연구하고 싶은데 멘토가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노전자재료 관련해서 도움을 받을 수 있는 연구자 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자점 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자점 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자점 연구하는 사람 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자점 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자점 연구자 중에 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성체 스핀 동역학 연구자 중에 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성체 스핀 동역학 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성체 스핀 동역학 분야에서 유명한 전문가 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성체 스핀 동역학 연구하시는 교수님 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성체 스핀 동역학 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 칩 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 칩 관련 연구하는 교수님 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 칩 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 칩 분야로 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 칩 연구하는 분들 중에 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스파이킹 신경망 알고리즘 관련해서 학위 과정 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스파이킹 신경망 알고리즘 분야에서 유명한 전문가 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스파이킹 신경망 알고리즘 관련해서 도움을 받을 수 있는 연구자 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스파이킹 신경망 알고리즘 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스파이킹 신경망 알고리즘 분야에서 실력 있는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "생화학반응네트워크 시뮬레이션랑 관련된 연구자 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "생화학반응네트워크 시뮬레이션 분야 전문가 찾고 있어요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "생화학반응네트워크 시뮬레이션 연구 같이 하는 사람 있을까?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "생화학반응네트워크 시뮬레이션 분야에서 실력 있는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "생화학반응네트워크 시뮬레이션 연구하고 싶은데 멘토가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "아날로그 집적회로 설계 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "아날로그 집적회로 설계 관련해서 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "아날로그 집적회로 설계 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "아날로그 집적회로 설계 관련 연구자 찾고 있어요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "아날로그 집적회로 설계 연구하고 싶은데 멘토가 될 수 있는 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "혼성신호 집적회로 설계 분야에서 유명한 연구자 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "혼성신호 집적회로 설계 분야에서 실력 있는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "혼성신호 집적회로 설계 관련해서 프로젝트를 진행하려고 하는데 도와주실 전문가 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "혼성신호 집적회로 설계 연구하고 싶은데 멘토가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "혼성신호 집적회로 설계 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 컴퓨팅 쪽으로 연구하시는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 컴퓨팅 쪽 전문가 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 컴퓨팅 연구하고 싶은데 멘토가 될 수 있는 연구자 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 컴퓨팅 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 컴퓨팅 분야로 진학하려고 하는데 추천해주실 전문가 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 시스템 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 시스템 관련해서 논문 쓰려고 하는데 도와주실 교수님 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 시스템 분야로 대학원 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 시스템 관련해서 도움을 받을 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 시스템 연구하고 싶은데 멘토가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 알고리즘 연구하는 사람 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 알고리즘 연구하고 싶은데 멘토가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 알고리즘 분야로 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 알고리즘 분야에서 실력 있는 전문가 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "두뇌모사 인공지능 알고리즘 분야로 진학하려고 하는데 추천해주실 교수님 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 공학 연구하고 싶은데 멘토가 될 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 공학 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 공학 분야에서 유명한 연구자 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 공학 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 공학 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자가학습 인공지능 반도체 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자가학습 인공지능 반도체 분야로 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자가학습 인공지능 반도체 연구하고 싶은데 멘토가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자가학습 인공지능 반도체 연구하고 싶은데 멘토가 될 수 있는 전문가 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자가학습 인공지능 반도체 연구하는 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노소재기반 스핀소자 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노소재기반 스핀소자 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노소재기반 스핀소자 분야로 진학하려고 하는데 추천해주실 전문가 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노소재기반 스핀소자 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노소재기반 스핀소자 관련해서 프로젝트를 진행하려고 하는데 도와주실 전문가 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "MRAM 분야에서 실력 있는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "MRAM 쪽 전문가 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "MRAM 관련해서 도움을 받을 수 있는 전문가 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "MRAM 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "MRAM 분야 전문가 찾고 있어요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소재 연구하고 싶은데 멘토가 될 수 있는 연구자 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소재 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소재 연구하는 연구자 중에 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소재 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소재 분야 전문가 찾고 있어요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소자 연구하고 싶은데 멘토가 될 수 있는 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소자 연구하는 사람 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소자랑 관련된 연구자 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소자 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노 소자 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전기장 제어 소자 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전기장 제어 소자 쪽으로 연구하시는 분 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전기장 제어 소자 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전기장 제어 소자 관련해서 프로젝트를 진행하려고 하는데 도와주실 전문가 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전기장 제어 소자 연구하는 사람 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 신경망 설계 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 신경망 설계 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 신경망 설계 관련 연구자 찾고 있어요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 신경망 설계 관련해서 프로젝트를 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "뉴로모픽 신경망 설계 관련해서 도움을 받을 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "계산뇌과학 분야로 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "계산뇌과학 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "계산뇌과학 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "계산뇌과학 관련해서 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "계산뇌과학 연구하는 전문가 중에 누가 좋을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성 재료 분야에서 실력 있는 교수님 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성 재료 연구하고 싶은데 멘토가 될 수 있는 연구자 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성 재료 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성 재료 분야 잘하는 연구자 누구야?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "자성 재료 분야에서 유명한 연구자 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자수송 분야로 프로젝트를 진행하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자수송 연구하고 싶은데 대학원 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자수송 분야에서 유명한 전문가 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자수송 관련 연구자 찾고 있어요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자수송 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀소자 분야로 대학원 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀소자 분야에서 실력 있는 연구자 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀소자랑 관련된 연구자 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀소자 연구하는 연구자 중에 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "스핀소자 연구하고 싶은데 멘토가 될 수 있는 연구자 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "물리전자 분야에서 실력 있는 교수님 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "물리전자 관련해서 논문 쓰려고 하는데 도와주실 교수님 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "물리전자에 관심 있는 연구자 있어?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "물리전자 전문가 중에서 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "물리전자 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "모델링 연구하고 싶은데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "모델링 연구하는 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "모델링 분야로 진학하려고 하는데 추천해주실 연구자 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "모델링 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "모델링 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자컴퓨팅 관련해서 학위 과정 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자컴퓨팅 전문가 중에서 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자컴퓨팅 관련해서 도움을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자컴퓨팅 분야에서 추천해주실 만한 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "양자컴퓨팅 연구하고 싶은데 프로젝트 멤버가 필요해요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "딥러닝 기술을 활용한 자성체 연구 관련해서 학위 논문 쓰려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "딥러닝 기술을 활용한 자성체 연구 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "딥러닝 기술을 활용한 자성체 연구 연구하시는 교수님 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "딥러닝 기술을 활용한 자성체 연구 연구하고 싶은데 멘토가 될 수 있는 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "딥러닝 기술을 활용한 자성체 연구 관련해서 학위 과정 진행하려고 하는데 도와주실 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노자성박막 성장 관련해서 조언을 받을 수 있는 전문가 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노자성박막 성장 분야에서 실력 있는 전문가 추천해주세요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노자성박막 성장 관련해서 조언을 받을 수 있는 분 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노자성박막 성장 관련해서 석사/박사 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "나노자성박막 성장 관련해서 프로젝트를 진행하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전자기적 물성 평가 분야로 진학하려고 하는데 추천해주실 연구자 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전자기적 물성 평가 분야로 진학하려고 하는데 조언을 받을 수 있는 분 있을까요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전자기적 물성 평가 관련해서 도움을 받을 수 있는 교수님 찾아요"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전자기적 물성 평가 연구자 중에 추천해주실 수 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
+{"messages": [{"role": "user", "content": "전자기적 물성 평가 분야로 진학하려고 하는데 추천해주실 분 있나요?"}, {"role": "assistant", "content": "{\"topics\": [\"반도체기술\"]}"}]}
