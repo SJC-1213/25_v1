@@ -1,3 +1,5 @@
+##0513 기준 느리지만, 답변은 잘나옴(가상의 html까지 구현성공)
+
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 import json
